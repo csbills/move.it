@@ -7,7 +7,7 @@ import { CompletedChallenges } from '../components/CompletedChallenges';
 import { Countdown } from '../components/Countdown';
 import { ChallengeBox } from '../components/ChallengeBox';
 
-import styles from '../styles/Home.module.css';
+import styles from '../styles/Index.module.css';
 import { CountdownProvider } from '../contexts/CountdownContext';
 import { ChallengesProvider } from '../contexts/ChallengesContext';
 
